@@ -1,9 +1,1 @@
-# Simple Purescript Halogen demo app
-
-Useful as template to quickly trying things with halogen.
-
-Based on https://github.com/purescript-halogen/purescript-halogen/tree/master/examples/basic
-
-```bash
-parcel index.html
-```
+Demo of how to use `getHTMLElementRef` to get a DOM element and then trigger an event on it
